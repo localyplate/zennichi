@@ -1,0 +1,417 @@
+/****************
+/汎用CSS
+/****************/
+.flow {
+  overflow: hidden;
+}
+/****************
+/fk-117 4-1 不動産会社について調べる
+/****************/
+#fk-117 .knowredge .h3_num {
+  background: url(../images/lease/lease4-1/h3bg.png) no-repeat center;
+  width: 640px;
+  height: 53px;
+  padding: 0;
+}
+#fk-117 .icon01{
+  background: url(../images/buy/ico_link.png) no-repeat 44% 2px;
+}
+#fk-117 .icon01.icon01_posi01{
+  background-position: 30% 2px;
+}
+
+#fk-117 .knowredge .low2 {
+    overflow: hidden;
+    margin-top: 0;
+}
+#fk-117 .knowredge .low2 li{
+    float: left;
+    clear: inherit;
+    line-height: 53px
+}
+#fk-117 .knowredge .low2 li:nth-child(2n){
+    line-height: 1.2rem;
+    padding-top: 7px;
+    font-size: 18px;
+}
+#fk-117 .knowredge .low2 li:last-child{
+    padding-left: 35px;
+}
+#fk-117 .knowredge .low2 li:last-child{
+    padding-left: 35px;
+}
+
+#fk-117 .text01{
+    width:360px;
+    float: left;
+}
+#fk-117 .img01{
+    width:276px;
+    float: right;
+    padding-top: 10px;
+}
+#fk-117 .icon02{
+  background: url(../images/lease/lease4-1/icon02.png) no-repeat 2px 4px;
+  padding-left: 16px;
+}
+#fk-117 .l-table {
+  border-collapse: inherit;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border: 1px solid #35a16b;
+  border-radius: 5px;
+    margin: 20px 0;
+}
+#fk-117 .l-table caption{
+  text-align: left;
+  font-size: 16px;
+  color: #35a16b;
+  margin-bottom: 4px;
+}
+#fk-117 .l-table .w140 {
+  width: 140px;
+}
+#fk-117 .l-table th,#fk-117 .l-table td {
+  border: 1px solid #35a16b;
+  vertical-align: middle;
+  padding: 14px;
+  line-height: 1.2rem;
+    background-color: #fff;
+}
+#fk-117 .l-table thead td {
+  background-color: #5db489;
+  padding: 14px 0;
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+}
+#fk-117 .l-table .icon01 {
+  display: block;
+}
+#fk-117 .l-table .icon01_posi02 {
+  background: url(../images/buy/ico_link.png) no-repeat 90% 0;
+}
+#fk-117 .l-table .icon01_posi03 {
+  background: url(../images/buy/ico_link.png) no-repeat 88% 0;
+}
+#fk-117 .l-box {
+  border: 1px solid #35a16b;
+  border-radius: 5px;
+  padding: 14px;
+  margin-top: 5px;
+}
+#fk-117 .l-box {
+  line-height: 1.2rem;
+  background-color: #fff;
+}
+
+/****************
+/fk-118 4-2 賃料査定を依頼する
+/****************/
+#fk-118 .knowredge .h3_num {
+  background: url(../images/lease/lease4-1/h3bg.png) no-repeat center;
+  width: 640px;
+  height: 53px;
+  padding: 0;
+}
+#fk-118 .knowredge .low2 {
+    overflow: hidden;
+    margin-top: 0;
+}
+#fk-118 .knowredge .low2 li{
+    float: left;
+    clear: inherit;
+    line-height: 53px
+}
+#fk-118 .knowredge .low2 li:nth-child(2n){
+    line-height: 1.2rem;
+    padding-top: 7px;
+    font-size: 18px;
+}
+#fk-118 .knowredge .low2 li:last-child{
+    padding-left: 35px;
+}
+#fk-118 .knowredge .low2 li:last-child{
+    padding-left: 35px;
+}
+#fk-118 .l-box {
+  border: 2px solid #35a16b;
+  background-color: #5db489;
+  font-size: 14px;
+  display: table;
+}
+#fk-118 .l-box.type01 {
+  margin-top:20px;
+  -webkit-border-top-left-radius: 5px;
+  -webkit-border-top-right-radius: 5px;
+  -moz-border-radius-topleft: 5px;
+  -moz-border-radius-topright: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom: none;
+}
+#fk-118 .l-box:last-child {
+  -webkit-border-bottom-right-radius: 5px;
+  -webkit-border-bottom-left-radius: 5px;
+  -moz-border-radius-bottomright: 5px;
+  -moz-border-radius-bottomleft: 5px;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-top: 1px solid #35a16b;
+}
+#fk-118 .l-box.type01 td {
+-webkit-border-top-left-radius: 5px;
+-webkit-border-top-right-radius: 5px;
+-moz-border-radius-topleft: 5px;
+-moz-border-radius-topright: 5px;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+}
+#fk-118 .l-box dt {
+  color: #fff;
+  width: 135px;
+  padding: 8px 20px;
+  text-align: center;
+}
+#fk-118 .l-box dd {
+  background-color: #fff;
+  border-left: 1px solid #35a16b;
+  padding: 8px 15px;
+  line-height: 1.2rem
+}
+#fk-118 .l-box dt,#fk-118 .l-box dd {
+  display: table-cell;
+  vertical-align: middle;
+  min-height: 1.5em;
+}
+/****************
+/fk-120 仲介の依頼形態による違い
+/****************/
+#fk-120 .knowredge .h3_num {
+  background: url(../images/lease/lease4-1/h3bg.png) no-repeat center;
+  width: 640px;
+  height: 53px;
+  padding: 0;
+}
+#fk-120 .knowredge .low2 {
+    overflow: hidden;
+    margin-top: 0;
+}
+#fk-120 .knowredge .low2 li{
+    float: left;
+    clear: inherit;
+    line-height: 53px
+}
+#fk-120 .knowredge .low2 li:nth-child(2n){
+    line-height: 1.2rem;
+    padding-top: 7px;
+    font-size: 18px;
+}
+#fk-120 .knowredge .low2 li:last-child{
+    padding-left: 35px;
+}
+#fk-120 .knowredge .low2 li:last-child{
+    padding-left: 35px;
+}
+
+#fk-120 .l-table {
+  border-collapse: inherit;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border: 1px solid #35a16b;
+  border-radius: 5px;
+  margin-top:22px;
+  word-wrap: break-word;
+}
+#fk-120 .l-table th,#fk-120 .l-table td {
+  border: 1px solid #35a16b;
+  vertical-align: middle;
+  padding: 14px;
+  line-height: 1.2rem;
+  background-color: #fff;
+}
+#fk-120 .l-table th {
+  width: 100px;
+  background-color: #5db489;
+  color: #fff;
+}
+#fk-120 .l-table thead td {
+  background-color: #aed9c4;
+  padding: 14px 0;
+  text-align: center;
+  color: #656365;
+  font-weight: bold;
+}
+/****************
+/fk-124 5-1 賃料、契約条件を決める
+/****************/
+#fk-124 .icon02{
+  background: url(../images/lease/lease4-1/icon02.png) no-repeat 2px 0;
+  padding-left: 16px;
+}
+#fk-124 .section{
+  margin: 42px auto 0;
+}
+#fk-124 .section .h4 {
+  margin-top: 0;
+}
+/****************
+/fk-126 5-3 普通借家契約と定期借家契約
+/****************/
+#fk-126 .l-point-bg {
+  padding:22px;
+  background: #f2f2f2;
+}
+#fk-126 .l-point {
+  margin-bottom: 24px;
+}
+#fk-126 .l-point dt {
+  margin-bottom: 8px;
+}
+/****************
+/fk-127 6-1入居者の決定と契約準備
+/****************/
+#fk-127 h3.title-point {
+  margin-bottom: 21px;
+}
+#fk-127 .point2-list {
+  margin: 10px 0;
+}
+#fk-127 .point2-list li{
+  line-height: 2em;
+  list-style-type: none;
+  letter-spacing: -0.5px;
+}
+#fk-127 .point2-list li span{
+  color: #35a16b;
+}
+
+/****************
+/fk-129 6-3 原状回復の取り決めについて
+/****************/
+#fk-129 .red {
+  color: #ea6428;
+}
+#fk-129.global_container_ ul > li {
+  background: none;
+}
+#fk-129 .point2-list {
+  margin: 0 0 10px 0;
+}
+#fk-129 .point2-list li{
+  line-height: 2em;
+  list-style-type: none;
+}
+#fk-129 .fz14 {
+  font-size: 14px;
+}
+#fk-129 .icon-pdf {
+  background: url(../images/lease/lease6-3/pdf.png) no-repeat 0 3px;
+  padding-left: 25px;
+  width: 100%;
+}
+#fk-129 .icon-pdf span {
+  display: block;
+  background: url(../images/buy/ico_link.png) no-repeat 68% 2px;
+}
+#fk-129 .section-detail {
+  font-size: 14px;
+  margin-top: 27px;
+}
+#fk-129 .section-detail .section-detail_title {
+  color: #e95504;
+}
+#fk-129 .section-detail .section-detail_list {
+  margin: 20px 0;
+}
+#fk-129 .section-detail .section-detail_list dt {
+  color: #35a16b;
+  margin-bottom: 8px;
+}
+#fk-129 .section-detail .section-detail_list dd {
+  margin-bottom: 2px;
+  background: url(../images/about/limage.png) no-repeat left;
+  padding-left: 14px;
+}
+#fk-129 .section-detail .section-detail_list dd span{
+  color: #35a16b;
+}
+#fk-129 .point2-guideline {
+  background: #f2f2f2;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+#fk-129 .h4 {
+  margin-top: 60px;
+}
+#fk-129 .section-detail_outline {
+  border : 2px solid #f2f2f2;
+  background: #fff;
+  padding: 17px 19px;
+  margin-bottom: 22px;
+}
+#fk-129 .l-point-bg {
+  padding:22px;
+  background: #f2f2f2;
+  margin-top: 22px;
+}
+/****************
+/fk-130 7-1 入居後の管理業務のポイント
+/****************/
+#fk-130 .section{
+  margin-bottom: 30px;
+}
+#fk-130 .l-table {
+  border-collapse: inherit;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border: 1px solid #35a16b;
+  border-radius: 5px;
+  margin-top:22px;
+  font-size: 14px;
+  word-wrap: break-word;
+}
+#fk-130 .l-table th,#fk-130 .l-table td {
+  border: 1px solid #35a16b;
+  vertical-align: middle;
+  padding: 10px;
+  line-height: 1.2rem;
+  background-color: #fff
+}
+#fk-130 .l-table th {
+  background-color: #5db489;
+  color: #fff;
+}
+#fk-130 .l-table thead td {
+  background-color: #aed9c4;
+  padding: 10px 0;
+  text-align: center;
+  color: #656365;
+  font-weight: bold;
+}
+#fk-130 .l-point-bg {
+  padding:22px;
+  background: #f2f2f2;
+  font-size: 14px;
+}
+#fk-130 .l-point {
+  margin-bottom: 24px;
+}
+#fk-130 .l-point dt {
+  margin-bottom: 2px;
+}
+#fk-130 .section .text01 {
+  margin-bottom: 10px;
+}
+#fk-130 .h4 {
+  margin-top: 20px;
+}
+#fk-130 .icon-pdf span {
+  background: url(../images/buy/ico_link.png) no-repeat 68% 2px;
+}
+/****************
+/fk-131 7-2 確定申告をする
+/****************/
+#fk-131 .section {
+  margin-bottom: 30px;
+}
